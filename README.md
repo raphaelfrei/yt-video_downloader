@@ -7,4 +7,4 @@ PROGRAM AT FINAL VERSION w/ UI: https://1drv.ms/u/s!ApjeOiMC5yRYgfpYE9ZxADHIZcgY
 - VIDEO: https://youtu.be/-4J2Zb0WKE4
 - AUDIO: https://youtu.be/P-kwxtj6jVk
 - PLAYLIST: https://youtu.be/0ZofIS6kqIE
-- AUDIO PLAYLIST: coming soon
+- AUDIO PLAYLIST: https://youtu.be/HgphxAJnt58
