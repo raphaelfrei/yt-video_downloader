@@ -1,5 +1,5 @@
 # YouTube Video Downloader with Python
-Python Script that download videos from YouTube
+Python Script that download videos, musics and playlists from YouTube
 
 PROGRAM AT FINAL VERSION w/ UI: https://1drv.ms/u/s!ApjeOiMC5yRYgfpYE9ZxADHIZcgYMw?e=gQIo82
 
@@ -8,3 +8,5 @@ PROGRAM AT FINAL VERSION w/ UI: https://1drv.ms/u/s!ApjeOiMC5yRYgfpYE9ZxADHIZcgY
 - AUDIO: https://youtu.be/P-kwxtj6jVk
 - PLAYLIST: https://youtu.be/0ZofIS6kqIE
 - AUDIO PLAYLIST: https://youtu.be/HgphxAJnt58
+
+[YouTube took some videos down...]
